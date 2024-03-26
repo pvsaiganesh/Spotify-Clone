@@ -1,0 +1,11 @@
+.container {
+  color: white;
+  padding: 20px;
+}
+.playlists-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: left;
+  flex-wrap: wrap;
+  gap: 10px;
+}

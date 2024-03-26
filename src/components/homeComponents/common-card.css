@@ -1,0 +1,9 @@
+.card-container {
+  font-size: 12px;
+  white-space: wrap;
+  width: 166px;
+}
+.card-image {
+  height: 166px;
+  width: 166px;
+}
